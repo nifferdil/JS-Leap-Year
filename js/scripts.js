@@ -6,6 +6,10 @@ var leapYear = function(year) {
   }
 };
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 2c06ab333e73d82e22f9ff33472cb3ae9efa61d3
 $(document).ready(function() {
   $("form#leap-year").submit(function(event) {
     var year = parseInt($("input#year").val());
